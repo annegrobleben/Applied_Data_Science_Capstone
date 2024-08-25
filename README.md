@@ -8,7 +8,9 @@ Summary of methodologies
 - EDA using SQL and visualization
 - Interactive visual analytics using Folium and Plotly dash
 - Predictive analysis using classification models 
+
 Summary of all results
-- Using a logistic regression model, a K Nearest Neighbors model, a Support Vector Machine 
-model or a Decision Tree we are able to predict the Falcon 9 launch outcomes with an accuracy 
-of 0.83334.
+- Using a logistic regression model, a K Nearest Neighbors model, a Support Vector Machine model or a Decision Tree we are able to predict the Falcon 9 launch outcomes with an accuracy of 0.83334.
+
+Files included in this repository:
+
