@@ -5,10 +5,10 @@ Therefore, the launch outcome is important to know if we want to bid against Spa
 Summary of methodologies
 - Data Collection from Spacex API and webscraping from Wikipedia
 - Data wrangling
- • EDA using SQL and visualization
- • Interactive visual analytics using Folium and Plotly dash
- • Predictive analysis using classification models 
+- EDA using SQL and visualization
+- Interactive visual analytics using Folium and Plotly dash
+- Predictive analysis using classification models 
 Summary of all results
- • Using a logistic regression model, a K Nearest Neighbors model, a Support Vector Machine 
+- Using a logistic regression model, a K Nearest Neighbors model, a Support Vector Machine 
 model or a Decision Tree we are able to predict the Falcon 9 launch outcomes with an accuracy 
 of 0.83334.
