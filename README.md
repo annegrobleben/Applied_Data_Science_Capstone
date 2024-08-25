@@ -14,11 +14,11 @@ Summary of all results
 
 Files included in this repository:
 
-1_Data Wrangling.ipynb
-1_Data collection API.ipynb
-1_Webscraping.md
-2_EDA with Pandas and Matpltl.ipynb
-2_EDA with SQL.ipynb
-3_Interactive Dashboard with Plotly Dash
-3_Interactive Visual Analytics with Folium lab.ipynb
-4_SpaceX_Machine Learning Prediction_Part_5.ipynb
+- 1_Data Wrangling.ipynb
+- 1_Data collection API.ipynb
+- 1_Webscraping.md
+- 2_EDA with Pandas and Matpltl.ipynb
+- 2_EDA with SQL.ipynb
+- 3_Interactive Dashboard with Plotly Dash
+- 3_Interactive Visual Analytics with Folium lab.ipynb
+- 4_SpaceX_Machine Learning Prediction_Part_5.ipynb
