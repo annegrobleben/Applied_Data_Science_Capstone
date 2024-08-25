@@ -3,8 +3,8 @@ As SpaceY we are investigating the Falcon9 launches from SpaceX in order to dete
 Therefore, the launch outcome is important to know if we want to bid against SpaceX. The most important question we need to answer is: How can we predict the outcome of a Falcon9 launch? 
 
 Summary of methodologies
- • Data Collection from Spacex API and webscraping from Wikipedia
- • Data wrangling
+- Data Collection from Spacex API and webscraping from Wikipedia
+- Data wrangling
  • EDA using SQL and visualization
  • Interactive visual analytics using Folium and Plotly dash
  • Predictive analysis using classification models 
